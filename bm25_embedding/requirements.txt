@@ -1,0 +1,13 @@
+# BM25和Embedding检索测试用例依赖包
+
+# 中文分词
+jieba>=0.42.1
+
+# 机器学习和向量计算
+scikit-learn>=1.0.0
+numpy>=1.21.0
+
+# 可选：更高级的embedding模型
+# sentence-transformers>=2.0.0
+# transformers>=4.0.0
+# torch>=1.9.0
